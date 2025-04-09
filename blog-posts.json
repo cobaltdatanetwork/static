@@ -9,7 +9,7 @@
     "readTime": "11 min read",
     "date": "Mar 8, 2025",
     "views": "12.8K",
-   "path": "/blog/proxy-rotation-strategies-for-large-scale-data-collection",
+   "path": "/resources/blogs/proxy-rotation-strategies-for-large-scale-data-collection",
     "tags": ["Proxy Management", "IP Rotation", "Data Collection", "Scaling"]
   },
   {
@@ -22,6 +22,7 @@
     "readTime": "8 min read",
     "date": "Mar 15, 2025",
     "views": "9.4K",
+    "path": "/resources/blogs/residential-vs-datacenter-proxies-right-choice-for-web-scraping",
     "tags": ["Proxy Types", "Web Scraping", "Proxy Selection", "Cost Analysis"]
   },
   {
@@ -34,6 +35,7 @@
     "readTime": "14 min read",
     "date": "Mar 22, 2025",
     "views": "7.2K",
+     "path": "/resources/blogs/building-a-self-healing-proxy-infrastructure-for-continuous-data-access",
     "tags": ["Fault Tolerance", "Proxy Infrastructure", "Automation", "Reliability Engineering"]
   },
   {
@@ -46,6 +48,7 @@
     "readTime": "12 min read",
     "date": "Mar 30, 2025",
     "views": "11.3K",
+     "path": "/resources/blogs/advanced-proxy-rotation-algorithms-that-mimic-human-browsing-patterns",
     "tags": ["Anti-Detection", "Browsing Patterns", "Algorithms", "Bot Prevention"]
   },
   {
@@ -58,6 +61,7 @@
     "readTime": "9 min read",
     "date": "Apr 5, 2025",
     "views": "8.7K",
+    "path": "/resources/blogs/geographic-ip-distribution-optimizing-data-collection-by-region",
     "tags": ["Geo-targeting", "IP Geography", "Regional Access", "Global Scraping"]
   },
   {
@@ -70,6 +74,7 @@
     "readTime": "13 min read",
     "date": "Apr 12, 2025",
     "views": "6.9K",
+    "path": "/resources/blogs/proxy-management-apis-building-a-centralized-control-system",
     "tags": ["API Design", "Proxy Management", "Infrastructure", "Developer Tools"]
   },
   {
@@ -82,6 +87,7 @@
     "readTime": "10 min read",
     "date": "Apr 19, 2025",
     "views": "10.5K",
+     "path": "/resources/blogs/cost-optimization-strategies-for-enterprise-scale-proxy-networks",
     "tags": ["Cost Optimization", "Budget Management", "ROI", "Enterprise Solutions"]
   },
   {
@@ -94,6 +100,7 @@
     "readTime": "11 min read",
     "date": "Apr 26, 2025",
     "views": "8.3K",
+    "path": "/resources/blogs/real-time-proxy-quality-scoring-keeping-your-pool-healthy",
     "tags": ["Quality Assurance", "Performance Metrics", "Proxy Testing", "Infrastructure Monitoring"]
   },
   {
