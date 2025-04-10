@@ -1,4 +1,4 @@
-{
+[{
   "id": 1,
   "title": "Effective Proxy Rotation Techniques for High-Volume Data Gathering",
   "excerpt": "Learn proxy rotation methods to optimize large-scale data collection, ensuring reliability and avoiding IP restrictions.",
@@ -10,4 +10,4 @@
   "views": "12.8K",
   "path": "/resources/blogs/effective-proxy-rotation-techniques-for-high-volume-data-gathering",
   "tags": ["Proxy Management", "IP Rotation", "Data Collection", "Scaling"]
-}
+}]
