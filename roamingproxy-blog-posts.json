@@ -9,7 +9,7 @@
     "readTime": "11 min read",
     "date": "Apr 10, 2025",
     "views": "12.8K",
-    "path": "/blog/proxy-rotation-strategies-for-large-scale-data-collection",
+    "path": "/resources/blogs/proxy-rotation-strategies-for-large-scale-data-collection",
     "tags": ["Proxy Management", "IP Rotation", "Data Collection", "Scaling", "RoamingProxy"]
   },
   {
@@ -22,6 +22,6 @@
     "readTime": "12 min read",
     "date": "Apr 10, 2025",
     "views": "9.4K",
-    "path": "/blog/residential-vs-datacenter-proxies-right-choice-for-web-scraping",
+    "path": "/resources/blogs/residential-vs-datacenter-proxies-right-choice-for-web-scraping",
     "tags": ["Proxy Types", "Web Scraping", "Proxy Selection", "Cost Analysis", "Residential Proxies", "Datacenter Proxies", "RoamingProxy"]
   }]
